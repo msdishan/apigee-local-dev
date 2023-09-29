@@ -1,0 +1,17 @@
+[
+  {
+    "developerId": "1148fc09-a981-48ac-b4ed-2c3661dd47ef",
+    "userName": "Dummy",
+    "firstName": "Dummy",
+    "lastName": "User",
+    "email": "dummy@gmail.com",
+    "status": "active",
+    "attributes": [
+      {
+        "name": "sample_attribute_0",
+        "value": "sample_attribute_value_0"
+      }
+    ],
+    "apps": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "attributes": [
+      {
+        "name": "sample_attribute_0",
+        "value": "sample_attribute_value_0"
+      }
+    ],
+    "developerEmail": "dummy@gmail.com",
+    "name": "mylocalapp",
+    "displayName": "mylocalapp",
+    "callbackUrl": "",
+    "apiProducts": [
+      "mylocalproduct"
+    ],
+    "expiryType": "never"
+  }
+]
